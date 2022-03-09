@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerBridge:jar">
+    <output-path>$PROJECT_DIR$/../../builds</output-path>
+    <root id="archive" name="ServerBridge.jar">
+      <element id="module-output" name="ServerBridge" />
+    </root>
+  </artifact>
+</component>
